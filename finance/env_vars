@@ -1,0 +1,13 @@
+export LINODE_API_TOKEN=__API_TOKEN__ 
+export SMTP_SERVER=__YOUR_SMTP_SERVER__
+export SMTP_PORT=__SMTP_PORT__
+export SMTP_USERNAME=__USERNAME__
+export SMTP_PASSWORD=__PASSWORD__
+export EMAIL_FROM=__SENDER_EMAIL__
+export RECIPIENTS=__RECIPIENT_EMAIL__
+#for more than 1 recipient: export RECIPIENTS=__RECIPIENT_EMAIL1__,__RECIPIENT_EMAIL2__,__RECIPIENT_EMAIL3__
+export EMAIL_SUBJECT='Linode Finance Report'
+export SCRIPT_HOME=__PATH_TO_SCRIPTS__
+## example: export SCRIPT_HOME=/home/finance/scripts/ <- trailing / is important
+export OUTPUT_PATH=__PATH_TO_OUTPUT_FILES__
+## example: export OUTPUT_PATH=/home/finance/output/ <- trailing / is important
