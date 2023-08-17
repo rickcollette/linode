@@ -12,24 +12,24 @@ In addition to graphical charts, it will show a report with the following output
 
 > ----- Account Summary -----
 > 
-> company: COMPANY, INC
-> email: your_email@email.example
-> balance: $0.00
-> credit used: $21.91
-> active_since: 2023-08-17T12:59:10
-> Rise Startup Credit
-> - expiration: 2024-11-22T03:59:59
-> - credit monthly cap: $100.00
-> - credit remaining: $478.09
-> - credit remaining this month: $78.09
+>  - company: COMPANY, INC
+>  - email: your_email@email.example
+>  - balance: $0.00
+>  - credit used: $21.91
+>  - active_since: 2023-08-17T12:59:10
+>  - Rise Startup Credit
+>    - expiration: 2024-11-22T03:59:59
+>    - credit monthly cap: $100.00
+>    - credit remaining: $478.09
+>    - credit remaining this month: $78.09
 > 
 >.--------------------------- 
 > 
 > ----- Invoice Totals -----
 > 
-> Last Month Total: $0.04
-> Current Month Total: $0.00
-> Year to Date Total: $0.09
+>  - Last Month Total: $0.04
+>  - Current Month Total: $0.00
+>  - Year to Date Total: $0.09
 > 
 > .---------------------------
 
